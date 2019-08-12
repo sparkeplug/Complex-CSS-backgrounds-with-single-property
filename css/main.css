@@ -1,5 +1,5 @@
 body {
-  background: repeating-linear-gradient(45deg, red, purple 50px, green 60px);
+  background: linear-gradient(45deg, #4c00ff, transparent), repeating-linear-gradient(45deg, #b700ff 0%, #b700ff 5%, transparent 5%, transparent 10%), #d876ff repeating-linear-gradient(-45deg, rgba(183, 0, 255, 0.5) 0%, rgba(183, 0, 255, 0.5) 5%, transparent 5%, transparent 10%);
   height: 100vh;
 }
 /*# sourceMappingURL=main.css.map */
